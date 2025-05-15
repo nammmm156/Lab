@@ -1,1 +1,1 @@
-!(Ảnh)(~/Desktop/consoleec2.jpg)
+!(Ảnh)(C:\Users\ADMIN\Desktop\consoleec2.jpg)
